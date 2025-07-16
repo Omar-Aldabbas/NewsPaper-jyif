@@ -2,7 +2,7 @@
 
 This project contains experiments for building newspaper-style layouts using different HTML styling methods.
 
-Table files have less inline-style (only the basic one's like --text-align --border --padding --font-size) "if i remember correctly"
+Table files have less inline-style (only the basic one's like --text-align --border --padding --font-size) "if i remember correctly 😔"
 
 ## Project Structure
 
